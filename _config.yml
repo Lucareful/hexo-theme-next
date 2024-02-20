@@ -66,9 +66,6 @@ footer:
 
   # If not defined, `author` from Hexo `_config.yml` will be used.
   copyright:
-    enable: true
-    license: CC BY-NC-SA 4.0
-    license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
   # Powered by Hexo & NexT
   powered: true
